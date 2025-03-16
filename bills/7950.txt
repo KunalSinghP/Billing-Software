@@ -1,7 +1,7 @@
 	Welcome Webcode Retail
  Bill Number:7950
 Customer Name:K
-Phone Number8076716684
+Phone Number80767XXXX
 ================================
 Products		QTY		Price
  Sanitizer		10		20
